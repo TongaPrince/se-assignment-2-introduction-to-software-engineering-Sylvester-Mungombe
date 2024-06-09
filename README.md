@@ -7,8 +7,11 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+fgggdjguyrgjh
 
 What is software engineering, and how does it differ from traditional programming?
+djgkdjhkhksdjs
+
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
